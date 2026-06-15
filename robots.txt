@@ -1,0 +1,6 @@
+# 允许所有搜索引擎蜘蛛抓取
+User-agent: *
+Allow: /
+
+# 站点地图地址（填你的icu域名sitemap）
+Sitemap: https://1790169619-star.icu/sitemap.xml
